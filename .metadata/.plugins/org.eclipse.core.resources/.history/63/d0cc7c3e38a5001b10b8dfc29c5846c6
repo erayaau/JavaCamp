@@ -1,0 +1,11 @@
+package oopinrtro;
+
+public class Product {
+    int Id;
+	String name;
+	double unitPrice;
+	String detail;
+	
+	
+  
+}
