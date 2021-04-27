@@ -41,8 +41,6 @@ public class Main {
         for (int i = 0; i < krediler2.length; i++) {
             System.out.println(krediler[0]);
         }
-        
-        System.out.println("");
 
 
         int sayi1 = 10;
