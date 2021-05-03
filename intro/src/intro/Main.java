@@ -44,7 +44,6 @@ public class Main {
         
         System.out.println("");
 
-
         int sayi1 = 10;
         int sayi2 = 20;
         sayi1 = sayi2;
@@ -63,5 +62,7 @@ public class Main {
         sehir1 = sehir2;
         sehir2 = "Ankara";
         System.out.println(sehir2);
+        
+        System.out.println("");
     }
 }
